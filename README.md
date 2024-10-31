@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 soy Antonio
 
 <!--
 **antoniodeepblue/antoniodeepblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on - [Antonio Fernández](https://sites.google.com/view/antonio-fernandez-salcedo2)
+- 🌱 I’m currently learning - [Trabajo Final Grado](https://openaccess.uoc.edu/handle/10609/150520?locale=es)
+- 👯 I’m looking to collaborate on - [LinkedIn](https://www.linkedin.com/in/antonio-fern%C3%A1ndez-salcedo-62b8722a0/)
+- 💬 Ask me about - [Twitter](@AntonioFer48993)
+- 📫 How to reach me: -  [Email](antoniofernandezsalc@uoc.edu)
+- ⚡ Fun fact: https://antonio49-chat-mixtral-aguausuarioconhilos.hf.space
+
+
+
+
+
