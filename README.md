@@ -116,6 +116,5 @@ Licencia: GNU General Public License v3.0
 _Gracias por visitar mi perfil._
 
 ---
-![Perfil de antoniodeepblue](https://avatars.githubusercontent.com/u/73521828?v=4)
 
 
